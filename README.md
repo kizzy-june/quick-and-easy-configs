@@ -2,3 +2,4 @@
 - Original app by DaanDoesWindowsStuff
 - Modified version by kizzy-june
 - There won't be sourcecode here for now, will add it in the future
+- Wallpapers by rip32, Izhan and kizzy-june
